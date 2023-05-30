@@ -11,7 +11,6 @@ module.exports = {
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
     'plugin:react/recommended',
-    'plugin:storybook/recommended',
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
@@ -62,7 +61,6 @@ module.exports = {
       },
     ],
     'chakra-ui/require-specific-component': 'error',
-
     'no-restricted-imports': [
       'error',
       {

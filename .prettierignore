@@ -1,4 +1,2 @@
 .next
-public/sw.js
-public/sw.js.map
-public/workbox-*.js
+node_modules/

@@ -1,4 +1,3 @@
 .next
 build
-LICENSE
-public/
+node_modules/
